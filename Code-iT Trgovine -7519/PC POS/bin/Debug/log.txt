@@ -13197,3 +13197,11 @@ Code: 22P02
    at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
    at PCPOS.classSQL.select(String sql, String table, Boolean caffe) in C:\Users\Marko Vrban\Downloads\Ostalo-master\Projekt\Code-iT Trgovine -7519\PC POS\classSQL.cs:line 59
 **************************************************************
+
+**************************************************************
+DATUM:16.7.2019. 11:42:08, FORMA: RemoteDB
+LINIJA KODA:65
+GREŠKA:
+select * from registracija;
+The specified table does not exist. [ registracija ]
+**************************************************************
